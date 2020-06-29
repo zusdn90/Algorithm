@@ -43,7 +43,9 @@ public class function_development {
             }
         }
 
+        //정답 배열
         int[] answer = new int[result.size()];
+
         for(int i=0; i<answer.length; i++){
             answer[i] = result.poll();
         }

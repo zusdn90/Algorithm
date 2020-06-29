@@ -1,4 +1,4 @@
-package com.algorithm.search;
+package com.algorithm.completeSearch;
 
 import java.util.ArrayList;
 
