@@ -53,14 +53,16 @@ public class printer_ex {
 
         return answer;
     }
-}
 
-class Document {
-    int idx;
-    int prioritie;
+    public static class Document {
+        int idx;
+        int prioritie;
 
-    public Document(int idx, int prioritie){
-        this.idx = idx;
-        this.prioritie = prioritie;
+        public Document(int idx, int prioritie){
+            this.idx = idx;
+            this.prioritie = prioritie;
+        }
     }
 }
+
+

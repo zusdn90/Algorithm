@@ -3,7 +3,7 @@ package com.algorithm.heap;
 import java.util.PriorityQueue;
 
 //프로그래머스 Heap 더 맵게 문제
-public class solution1 {
+public class spicy {
     public static void main(String[] args) {
         int[] scovile = {1, 2, 3, 9, 10, 12};
         int K = 7;

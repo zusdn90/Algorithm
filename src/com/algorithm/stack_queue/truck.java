@@ -63,17 +63,19 @@ public class truck {
         return answer;
     }
 
-}
+    public static class BridgeTruck {
+        int weight;
+        int distance;
 
-class BridgeTruck {
-    int weight;
-    int distance;
-
-    public BridgeTruck(int weight, int distance){
-        this.weight = weight;
-        this.distance = distance;
+        public BridgeTruck(int weight, int distance){
+            this.weight = weight;
+            this.distance = distance;
+        }
     }
+
 }
+
+
 
 
 
