@@ -1,4 +1,4 @@
-package com.algorithm.recursion;
+package com.algorithm.recursion.ch05;
 
 import java.util.Scanner;
 
