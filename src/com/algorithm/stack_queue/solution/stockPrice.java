@@ -1,4 +1,4 @@
-package com.algorithm.stack_queue;
+package com.algorithm.stack_queue.solution;
 
 public class stockPrice {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.algorithm.sort;
+package com.algorithm.sort.solution;
 import java.util.Arrays;
 import java.util.Comparator;
 

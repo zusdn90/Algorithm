@@ -1,4 +1,4 @@
-package com.algorithm.stack_queue;
+package com.algorithm.stack_queue.solution;
 
 import java.util.LinkedList;
 

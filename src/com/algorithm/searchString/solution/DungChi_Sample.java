@@ -1,4 +1,4 @@
-package com.algorithm.brutoForce;
+package com.algorithm.searchString.solution;
 
 import java.io.BufferedReader;
 import java.io.IOException;
